@@ -1,2 +1,2 @@
 # -netflix-
-netflix clone
+ https://alioglumusa.github.io/-netflix-/
